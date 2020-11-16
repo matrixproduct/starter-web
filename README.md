@@ -16,6 +16,8 @@ Deployment can be on any server or even local file system.
 
 ## How To Contribute 
 
+Just do it!
+
 ### Copyright
 
 Copyright 2020
