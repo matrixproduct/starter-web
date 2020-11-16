@@ -15,3 +15,7 @@ The manin purpose is to provide simple examples for Git training demos.
 Deployment can be on any server or even local file system.
 
 ## How To Contribute 
+
+### Copyright
+
+Copyright 2020
