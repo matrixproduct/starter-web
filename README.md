@@ -20,4 +20,4 @@ Just do it!
 
 ### Copyright
 
-Copyright 2020
+Copyright 2020. All rifgts reserved.
